@@ -45,7 +45,7 @@ function generateFooter() {
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <p>
-                            Welcome to Rumi Axolotl's site, This is project open source from Rumi The Axolotl and Danny The Raccoon.
+                            Welcome to RumiDanny's site, This is project open source from Rumi The Axolotl and Danny The Raccoon.
                             We are from SaiGon University
                         </p>
                     </div>
@@ -60,7 +60,7 @@ function generateFooter() {
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
             © 2023 Copyright:
-            <a class="text-white" href="http://rumiaxolotl.dev">rumiaxolotl.dev</a>
+            <a class="text-white" href="http://rumidanny.github.io">http://rumidanny.github.io</a>
         </div>
     </div>
 `;
