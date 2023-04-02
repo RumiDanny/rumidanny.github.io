@@ -8,7 +8,7 @@ function generateHeader() {
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse justify-content-end text-uppercase" id="navbarNav">
+            <div class="collapse navbar-collapse justify-content-around text-uppercase" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
                         <a class="nav-link" href="./index.html">Home</a>
