@@ -11,7 +11,7 @@ function generateFooter() {
                     <!-- Grid column -->
                     <div class="col-md-2">
                         <h6 class="text-uppercase font-weight-bold">
-                            <a href="#!" class="text-white">About us</a>
+                            <a href="/about.html" class="text-white">About us</a>
                         </h6>
                     </div>
                     <!-- Grid column -->
@@ -19,7 +19,7 @@ function generateFooter() {
                     <!-- Grid column -->
                     <div class="col-md-2">
                         <h6 class="text-uppercase font-weight-bold">
-                            <a href="#!" class="text-white">Products</a>
+                            <a href="./products.html" class="text-white">Products</a>
                         </h6>
                     </div>
                     <!-- Grid column -->
